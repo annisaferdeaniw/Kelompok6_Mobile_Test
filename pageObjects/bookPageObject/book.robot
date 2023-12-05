@@ -8,6 +8,12 @@ click book menu
     Wait Until Element Is Visible    ${book-menu}
     Click Element    ${book-menu}
 
+
+click oneway trip tab
+    Wait Until Element Is Visible    ${oneway-trip}
+    Click Element    ${oneway-trip}
+
+
 click round trip tab
     Wait Until Element Is Visible    ${round-trip}
     Click Element    ${round-trip}

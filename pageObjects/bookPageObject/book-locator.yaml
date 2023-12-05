@@ -1,4 +1,5 @@
 book-menu: '//android.widget.Button[@resource-id="com.example.myapplication:id/book"]'
+oneway-trip: '////android.support.v7.app.ActionBar.Tab[@content-desc="One Way"]'
 round-trip: '//android.widget.TextView[@text="ROUND TRIP"]'
 book-button: '//android.widget.Button[@resource-id="com.example.myapplication:id/book_flight"]'
 confirm-button: '//android.widget.Button[@resource-id="com.example.myapplication:id/confirm_order"]'
