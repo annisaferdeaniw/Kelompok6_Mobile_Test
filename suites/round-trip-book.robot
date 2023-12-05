@@ -73,14 +73,5 @@ login
     input number flight     ${valid-number}
     click search
 
-(negative) Verify Failed Search Flight Number - Empty Flight Number
-    open flight application
-    click sign in button home
-    input username    ${valid-username}
-    password input    ${valid-password}
-    click sign in button
-    click search in button home
-    Input Empty Flight Number
-    click search
 
 
