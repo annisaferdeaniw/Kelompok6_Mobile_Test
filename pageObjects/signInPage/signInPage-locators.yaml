@@ -1,0 +1,5 @@
+appLogo2: //android.widget.ImageView[@resource-id="com.example.myapplication:id/imageView3"]
+userNameField: //android.widget.EditText[@resource-id="com.example.myapplication:id/username"]
+passwordField: //android.widget.EditText[@resource-id="com.example.myapplication:id/password"]
+signInButton2: //android.widget.Button[@resource-id="com.example.myapplication:id/signIn"]
+invalidMessage: //android.widget.Toast[@text="Invalid username/password"]
